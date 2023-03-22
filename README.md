@@ -47,5 +47,5 @@ This project is licensed under the terms of the MIT license.
 
 Please feel free to contact the project owner with any questions/comments.
 
-* GitHub: [username](https://github.com/username)
-* Email: [email](mailto:email)
+* GitHub: [Facebook](https://www.facebook.com/Norzaco)
+* Email: [Tweeter](https://twitter.com/mwamuziscode)
